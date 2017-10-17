@@ -1,4 +1,4 @@
-from BinarySearchTreeDS.Node import Node
+from DataStructures.BinarySearchTreeDS.Node import Node
 
 
 class BST(object):

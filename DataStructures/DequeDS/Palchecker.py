@@ -1,4 +1,4 @@
-from DequeDS.Deque import Deque
+from DataStructures.DequeDS.Deque import Deque
 
 
 def palchecker(aString):

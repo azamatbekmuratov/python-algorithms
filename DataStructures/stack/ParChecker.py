@@ -1,4 +1,4 @@
-from stack.Stack import Stack
+from DataStructures.stack.Stack import Stack
 
 
 def parChecker(symbolString):

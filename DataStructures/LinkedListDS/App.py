@@ -1,4 +1,4 @@
-from LinkedListDS.LinkedList import LinkedList
+from DataStructures.LinkedListDS.LinkedList import LinkedList
 
 linkedList = LinkedList()
 

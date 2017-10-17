@@ -1,4 +1,4 @@
-from stack.Stack import Stack
+from DataStructures.stack.Stack import Stack
 
 stack = Stack()
 stack.push(4)

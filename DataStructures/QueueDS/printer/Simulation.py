@@ -1,9 +1,9 @@
-from QueueDS.Queue import Queue
+from DataStructures.QueueDS.Queue import Queue
 
 import random
 
-from QueueDS.printer.Printer import Printer
-from QueueDS.printer.Task import Task
+from DataStructures.QueueDS.printer.Printer import Printer
+from DataStructures.QueueDS.printer.Task import Task
 
 
 def simulation(num_seconds, pages_per_minute):

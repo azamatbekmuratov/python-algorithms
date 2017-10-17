@@ -1,4 +1,4 @@
-from QueueDS.Queue import Queue
+from DataStructures.QueueDS.Queue import Queue
 
 
 def hot_potato(nameList, num):

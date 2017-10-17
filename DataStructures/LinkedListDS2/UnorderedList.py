@@ -1,4 +1,4 @@
-from LinkedListDS2.Node import Node
+from DataStructures.LinkedListDS2.Node import Node
 
 
 class UnorderedList:

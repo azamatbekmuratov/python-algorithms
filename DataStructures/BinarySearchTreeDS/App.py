@@ -1,5 +1,5 @@
 
-from BinarySearchTreeDS.BinarySearchTree import BST
+from DataStructures.BinarySearchTreeDS.BinarySearchTree import BST
 
 bst = BST()
 
